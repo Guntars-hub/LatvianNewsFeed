@@ -54,7 +54,7 @@
 		2110649C25D6A86700258A1E = {
 			isa = PBXGroup;
 			children = (
-				211064A725D6A86800258A1E /* AplleNewsFeed */,
+				211064A725D6A86800258A1E /* Latvian News Feed */,
 				211064A625D6A86800258A1E /* Products */,
 			);
 			sourceTree = "<group>";
@@ -67,27 +67,27 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		211064A725D6A86800258A1E /* AplleNewsFeed */ = {
+		211064A725D6A86800258A1E /* Latvian News Feed */ = {
 			isa = PBXGroup;
 			children = (
 				211064CB25D6AF0100258A1E /* Model */,
 				D06E5AD525D91FBB00F81AD1 /* Helper */,
-				211064BD25D6A88100258A1E /* AppDeleage */,
+				211064BD25D6A88100258A1E /* AppDelegate */,
 				211064C025D6A8AE00258A1E /* Controllers */,
 				211064C225D6A8C000258A1E /* View */,
 				211064B125D6A86B00258A1E /* Assets.xcassets */,
 				211064B625D6A86B00258A1E /* Info.plist */,
 			);
-			path = AplleNewsFeed;
+			path = "Latvian News Feed";
 			sourceTree = "<group>";
 		};
-		211064BD25D6A88100258A1E /* AppDeleage */ = {
+		211064BD25D6A88100258A1E /* AppDelegate */ = {
 			isa = PBXGroup;
 			children = (
 				211064A825D6A86800258A1E /* AppDelegate.swift */,
 				211064AA25D6A86800258A1E /* SceneDelegate.swift */,
 			);
-			path = AppDeleage;
+			path = AppDelegate;
 			sourceTree = "<group>";
 		};
 		211064C025D6A8AE00258A1E /* Controllers */ = {
